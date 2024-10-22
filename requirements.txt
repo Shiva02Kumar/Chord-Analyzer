@@ -39,6 +39,7 @@ keras==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==15.0.6.1
+librosa
 lxml==4.9.2
 Markdown==3.4.1
 MarkupSafe==2.1.2
